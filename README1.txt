@@ -11,3 +11,6 @@
                         preRecogFailString = string.Empty;
 	}
        }[13:39:43]    
+
+
+2nd commit

@@ -1,4 +1,4 @@
-      IntPtr ptrFailStrOut;
+IntPtr ptrFailStrOut;
 
       if (fr_mm_GetRecogFailString(out ptrFailStrOut))
       {

@@ -1,7 +1,7 @@
-- resource: : rocon_service_turtlesim/turtlesim
+- resource: rocon_service_turtlesim/turtlesim
   override: 
     priority: 3
-- resource: : chatter_concert/chatter
-- resource: : turtle_concert/turtle_pond
+- resource: rocon_service_admin/admin
   override: 
-    description: shkwak test
+    name: shkwak
+- resource: chatter_concert/chatter

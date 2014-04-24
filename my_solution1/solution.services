@@ -1,0 +1,8 @@
+- resource: rocon_service_turtlesim/turtlesim
+  override: 
+    priority: 3
+- resource: rocon_service_admin/admin
+  override: 
+    name: shkwak
+    description: my name
+- resource: chatter_concert/chatter
